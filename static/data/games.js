@@ -42,6 +42,12 @@ var games = [
     'url': 'https://art-class.github.io/assets/jacksmith',
     'image': 'https://lh3.googleusercontent.com/dJAftLFmxmWdTAEjuolFrtNNAX3D0HjODTm9703CP7JqM_jFgOgPR75d6xqRsYTwoTot'
   },
+    {
+    'id': 'minecraft.1.5.2',
+    'title': 'Minecraft 1.5.2',
+    'url': 'https://github.com/Domino1234B/Art-Class/blob/main/static/data/Minecraft-1.5.2.html',
+    'image': 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Feaglercraft%2F%3Fcount%3D25%26page%3D1%26after%3Dt3_10dxsmn&psig=AOvVaw119cWvO2aK2JkDb8_fNdTG&ust=1694138312616000&source=images&cd=vfe&opi=89978449&ved=0CA0QjRxqFwoTCJjT4Zazl4EDFQAAAAAdAAAAABAD'
+  },
   {
     'id': 'thereisnogame',
     'title': 'There Is No Game',
