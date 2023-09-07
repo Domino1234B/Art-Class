@@ -190,7 +190,7 @@ var games = [
   {
     'id': 'sm64',
     'title': 'Super Mario 64',
-    'url': 'https://mario-64.jaimegutierrez6.repl.co/',
+    'url': 'https://mario-64.jaimegutierrez6.repl.co/game.html',
     'image': 'https://assets1.ignimgs.com/2019/05/31/mario-64---button-1559263987447.jpg',
     'description': 'Controls: <br>Movement: Arrow Keys <br>A: X <br>B: C <br>R: Q <br>Z: Space <br>Start: Enter <br>C-stick: WASD<br><br>You might need to go into fullscreen for the keybinds to register'
   },
