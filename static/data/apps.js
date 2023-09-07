@@ -11,6 +11,12 @@ var apps = [
     'image': 'https://img.freepik.com/free-icon/search_318-265146.jpg'
     
   },
+   {
+    'id': 'aniwave',
+    'title': 'Aniwave',
+    "url": "Aniwave.to",
+    'image': '/static/data/Aniwave.png'
+  },
   {
     "id": "discord",
     "title": "Discord",
