@@ -13,8 +13,7 @@ Official website of Art Class
 ### Install using the terminal
 You will need to have [NodeJS](https://nodejs.org) and [Git](https://git-scm.com/download) installed.
 ````bash
-$ git clone https://github.com/proudparrot2/artclass.git
-````
+$ git clone https://github.com/Domino1234B/Art-Class
 Once the repo has been cloned run the following commands individually.
 ````bash
 $ npm install
