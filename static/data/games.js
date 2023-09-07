@@ -45,7 +45,7 @@ var games = [
     {
     'id': 'minecraft.1.5.2',
     'title': 'Minecraft 1.5.2',
-    'url': '../main/static/data/Minecraft-1.5.2.html',
+    'url': 'https://e.jaimegutierrez6.repl.co/Minecraft-1.5.2.html',
     'image': 'https://github.com/Domino1234B/Art-Class/blob/main/static/data/Fav.jpg?raw=true'
   },
   {
