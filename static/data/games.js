@@ -190,7 +190,7 @@ var games = [
   {
     'id': 'sm64',
     'title': 'Super Mario 64',
-    'url': 'https://rawcdn.githack.com/3kh0/3kh0-Assets/e3144855e924629d8f7c41238660a823a5336705/sm64/index.html',
+    'url': 'https://mario-64.jaimegutierrez6.repl.co/',
     'image': 'https://assets1.ignimgs.com/2019/05/31/mario-64---button-1559263987447.jpg',
     'description': 'Controls: <br>Movement: Arrow Keys <br>A: X <br>B: C <br>R: Q <br>Z: Space <br>Start: Enter <br>C-stick: WASD<br><br>You might need to go into fullscreen for the keybinds to register'
   },
