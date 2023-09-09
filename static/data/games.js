@@ -331,7 +331,7 @@ var games = [
   {
     'id': 'cookieclicker',
     'title': 'Cookie Clicker',
-    'url': 'https://rawcdn.githack.com/3kh0/3kh0-Assets/21ac7257444af1713884b35045938d57e88a4993/cookie-clicker/index.html',
+    'url': 'https://trixter9994.github.io/Cookie-Clicker-Source-Code/',
     'image': 'https://play-lh.googleusercontent.com/OssE3ON9WsLZedOF39UCgtIHcRYfV0OqQS9O78LfmRdxSyKdHX52G2OFa0LkG6D-k9w'
   },
   {
