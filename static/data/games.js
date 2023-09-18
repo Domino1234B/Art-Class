@@ -84,7 +84,7 @@ var games = [
   {
     'id': 'roblox',
     'title': 'Roblox',
-    'url': 'https://universityequality.com?utm_source=proxy&utm_medium=browser&utm_campaign=nowgg_proxy',
+    'url': 'https://universityequality.com',
     'image': 'https://play-lh.googleusercontent.com/WNWZaxi9RdJKe2GQM3vqXIAkk69mnIl4Cc8EyZcir2SKlVOxeUv9tZGfNTmNaLC717Ht'
   },
   {
