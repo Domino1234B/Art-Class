@@ -62,6 +62,12 @@ var games = [
     'image': 'http://m.arcadethunder.com/images/icons/fireboy-and-watergirl-4.jpg'
   },
   {
+    'id': 'WAWWB',
+    'title': 'We Are What We Behold',
+    'url': 'https://ncase.itch.io/wbwwb',
+    'image': 'https://cdn.cloudflare.steamstatic.com/steam/apps/1103210/ss_5f6371b38540c2f15dbc4cace6e95789fd38cfcb.1920x1080.jpg'
+  }, 
+  {
     'id': 'osu',
     'title': 'osu!',
     'description': 'A web version of osu!',
