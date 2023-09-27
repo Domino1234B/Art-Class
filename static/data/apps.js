@@ -10,6 +10,12 @@ var apps = [
     "url": "https://www.google.com/?safe=active&ssui=on",
     'image': 'https://img.freepik.com/free-icon/search_318-265146.jpg'
   },
+    {
+    'id': 'gamejolt',
+    'title': 'GameJolt',
+    "url": "https://gamejolt.com/",
+    'image': 'https://yt3.googleusercontent.com/0menE8y48BXI8cXuIDeAQr0gi5VShLQk7efdtr52sa2Oa0EBITdnnKR300nPradCQJzjFTgZ=s900-c-k-c0x00ffffff-no-rj'
+  },
   {
     "id": "discord",
     "title": "Discord",
